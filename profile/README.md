@@ -1,6 +1,6 @@
-# Satunol Mikro Sistem
+# Satunol Mikrosistem
 
-Satunol Mikro Sistem provides innovative solutions for sensor-driven decisions in various industries. Founded in 1995, Satunol focuses on transforming how organizations monitor, sense, and make informed decisions through IoT and real-time data.
+Satunol Mikrosistem provides innovative solutions for sensor-driven decisions in various industries. Founded in 1995, Satunol focuses on transforming how organizations monitor, sense, and make informed decisions through IoT and real-time data.
 
 ## Products & Services
 
